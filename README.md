@@ -8,3 +8,6 @@ This is a repository of resources related to the study of Chinese historical pho
 * Step 4: Digitize Nattier's Zhi Qian glossary. 
 * Step 5: Digitize Karashima's glossary. REFER TO IT BY BIBTEX KEY
 * Step 6: Incorporate further glosses not given in Coblin1983. 
+ * Step 6.1: Include Antonello's text (T.731)
+ * Step 6.2: Include translations by An Shigao and Lokakṣema listed in the appendix of Nattier2008 but not in Coblin1983. 
+ * Step 6.3: Include translations by An Shigao not included in the Taishō canon discovered in the 1990s discussed by Stephano Zacchetti. 
